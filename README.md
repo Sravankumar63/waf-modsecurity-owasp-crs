@@ -3,8 +3,6 @@
 ## Description
 This project demonstrates the implementation of a Web Application Firewall (WAF) using ModSecurity with OWASP Core Rule Set (CRS) to detect and block SQL Injection (SQLi) and Cross-Site Scripting (XSS) attacks.
 
-REFER THE PDF WHICH WAS UPLOADED
-
 ## Objectives
 - Configure Apache with ModSecurity
 - Enable OWASP CRS
@@ -46,3 +44,6 @@ report/
 - Integrate SIEM tools
 - Automate detection using Python
 - Deploy in cloud environment
+  
+## 📄 Full Report
+[View Detailed Report](waf-modsecurity-report.pdf)
