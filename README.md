@@ -26,3 +26,21 @@ This project demonstrates the implementation of a Web Application Firewall (WAF)
 
 ## Attack Simulation
 Example payload:
+http://localhost/test.php?name=<script>alert(1)</script>
+
+## Results
+- Malicious requests blocked (HTTP 403)
+- No SQLi/XSS vulnerability detected in ZAP
+- False positives reduced after tuning
+- Security rules remained effective
+
+## Project Structure
+report/
+├── screenshots/
+├── malware_analysis.md
+├── iocs/
+
+## Future Improvements
+- Integrate SIEM tools
+- Automate detection using Python
+- Deploy in cloud environment
