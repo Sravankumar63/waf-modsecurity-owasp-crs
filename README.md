@@ -40,6 +40,17 @@ report/
 ├── malware_analysis.md
 ├── iocs/
 
+## 📸 Screenshots
+
+### ModSecurity Setup
+![ModSecurity](report/screenshots/modsecurity.png)
+
+### Attack Blocked
+![403](report/screenshots/403.png)
+
+### ZAP Scan
+![ZAP](report/screenshots/zap.png)
+
 ## Future Improvements
 - Integrate SIEM tools
 - Automate detection using Python
