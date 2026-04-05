@@ -49,7 +49,7 @@ report/
 ![403](report/screenshots/403.png)
 
 ### ZAP Scan
-![ZAP](report/screenshots/zap.png)
+![ZAP](report/screenshots/zap-scan.png)
 
 ## Future Improvements
 - Integrate SIEM tools
